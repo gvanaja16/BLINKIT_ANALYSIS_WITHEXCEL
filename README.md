@@ -16,7 +16,7 @@ The dashboard helps me compare different areas of the business and understand wh
 
 Here is a quick walkthrough of the Excel dashboard, including the different charts, KPIs, and interactive filters used in the analysis.
 
-![Blinkit Dashboard Walkthrough](Blinkit_Dashboard.gif)
+![Blinkit Dashboard Walkthrough](Blinkit_Analysis_withExcel.gif)
 
 ---
 
