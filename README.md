@@ -4,27 +4,19 @@
 
 I worked on this project to analyze Blinkit's grocery sales data using **Microsoft Excel**.
 
-My main goal was to understand the overall sales performance and see how different factors such as outlet size, outlet location, item type, fat content, and outlet type are affecting sales.
+My main goal was to understand the overall sales performance and see how different factors such as outlet size, outlet location, item type, fat content, and outlet type affect sales.
 
-I started by working with the sales data, analyzing the different categories, and then created an interactive Excel dashboard using **Pivot Tables, Pivot Charts, slicers, and KPI cards**.
+I analyzed the data and created an interactive Excel dashboard using **Pivot Tables, Pivot Charts, slicers, and KPI cards**.
 
-The dashboard gives me a quick way to compare different areas of the business and identify which products, outlets, and locations are performing better.
-
----
-
-## 📊 Dashboard Preview
-
-Here is the final dashboard I created in Excel:
-
-![Blinkit Sales Analysis Dashboard](Blinkit%20Analysis_Excel_Dashboard.png)
+The dashboard helps me compare different areas of the business and understand which products, outlets, and locations are performing better.
 
 ---
 
 ## 🎥 Dashboard Walkthrough
 
-I have also included a short video walkthrough of the dashboard to show the different charts, KPIs, and filters used in the analysis.
+Here is a quick walkthrough of the Excel dashboard, including the different charts, KPIs, and interactive filters used in the analysis.
 
-[▶️ View Dashboard Walkthrough]()
+![Blinkit Dashboard Walkthrough](Blinkit_Dashboard.gif)
 
 ---
 
@@ -54,7 +46,7 @@ The dashboard contains four main KPIs:
 | **Number of Items** | 8,523 |
 | **Average Rating** | 4.0 |
 
-These KPIs give me a quick overview of the overall performance before going into the detailed analysis.
+These KPIs give me a quick overview of the overall performance before looking at the detailed analysis.
 
 ---
 
@@ -64,7 +56,7 @@ These KPIs give me a quick overview of the overall performance before going into
 
 I analyzed sales based on the year in which the outlets were established.
 
-This helped me understand how sales have changed over the years and identify the years with higher sales performance.
+This helped me understand how sales changed over the years and identify the years with higher sales performance.
 
 ### 2. Outlet Size
 
@@ -132,7 +124,7 @@ This helped me understand how different outlet formats are performing.
 
 ## 🎛️ Dashboard Filters
 
-I added interactive filters so that the dashboard can be explored based on different selections.
+I added interactive filters to make the dashboard easier to explore.
 
 The filters include:
 
@@ -191,8 +183,8 @@ After analyzing the data, I found a few interesting points:
 - **Tier 3 outlets** have the highest sales among the three outlet location tiers, with approximately **$472.1K** in sales.
 - **Tier 2 outlets** generated approximately **$393.2K**, while Tier 1 outlets generated approximately **$336.4K**.
 - **Regular-fat products** contribute a larger share of sales than Low Fat products.
-- Medium-sized outlets contribute a significant portion of the overall sales.
-- Sales performance changes across different outlet establishment years, with **2018 showing the highest sales at approximately $204.5K**.
+- **Medium-sized outlets** contribute a significant portion of the overall sales.
+- **2018** shows the highest sales in the outlet establishment trend, at approximately **$204.5K**.
 - **Supermarket Type 1** has the highest total sales among the outlet types shown in the dashboard.
 
 ---
@@ -215,8 +207,7 @@ Based on what I found from the analysis, some areas that could be looked at furt
 | File | Description |
 |---|---|
 | `Blinkit_Analysis_Dashboard.xlsx` | Excel workbook containing the analysis and dashboard |
-| `Blinkit Analysis_Excel_Dashboard.png` | Screenshot of the final dashboard |
-| `Blinkit_Analysis_withExcel.mp4` | Dashboard walkthrough video |
+| `Blinkit_Dashboard.gif` | GIF walkthrough of the interactive dashboard |
 
 ---
 
