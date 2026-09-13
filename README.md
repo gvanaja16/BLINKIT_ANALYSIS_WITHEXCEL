@@ -24,7 +24,7 @@ Here is the final dashboard I created in Excel:
 
 I have also included a short video walkthrough of the dashboard to show the different charts, KPIs, and filters used in the analysis.
 
-[▶️ View Dashboard Walkthrough](Blinkit_Analysis_withExcel.mp4)
+[▶️ View Dashboard Walkthrough]()
 
 ---
 
